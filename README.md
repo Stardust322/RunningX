@@ -1,6 +1,6 @@
 # Soongsil Univ, open_source_class
 
-<img src="./assets/images/icon.png" width=20 height=20 />
+<img src="./assets/images/icon.png" width=100 height=100 />
 
 ### RunningX v0.2.1 (2024.10.17 released, 2024.12.06 updated.)
 > v0.2.1 변경점.
